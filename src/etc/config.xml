@@ -18,6 +18,7 @@
             <cleanup>
                 <disable_company>1</disable_company>
                 <disable_telephone>0</disable_telephone>
+                <disable_country_id>0</disable_country_id>
                 <disable_header>1</disable_header>
                 <disable_footer>1</disable_footer>
                 <disable_copyright>1</disable_copyright>
