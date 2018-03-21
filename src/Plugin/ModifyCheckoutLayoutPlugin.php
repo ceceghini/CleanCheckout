@@ -24,6 +24,7 @@ class ModifyCheckoutLayoutPlugin
     const DISABLE_FIELDS = [
         'telephone',
         'company'
+        'country_id'
     ];
 
     /**
